@@ -14,7 +14,7 @@ function Navbar() {
 
       <div className="navbar__left">
         <Link to="/">
-          <h2 style={{ color: "#fff" }}>SERB</h2>
+          <h2 style={{ color: "#fff" }}>RopStamCar</h2>
         </Link>
 
         {/*  Search for porduct */}
@@ -45,8 +45,8 @@ function Navbar() {
           </div>
         ) : (
           <Link to="/currentuserprofile" className="register__section">
-            <p style={{ color: "#fff" }}>{user.fullName}</p>
-            <img src={user.profileImage} />
+            <p style={{ color: "#fff" }}>{user.firstName} {user.lastName}</p>
+            <img src="https://cdn.icon-icons.com/icons2/3446/PNG/512/account_profile_user_avatar_icon_219236.png" />
           </Link>
         )}
       </div>

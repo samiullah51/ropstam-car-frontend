@@ -5,6 +5,7 @@ import { Link } from "react-router-dom";
 import { LOG_IN } from "../../redux/User/userTypes";
 import { publicRequest } from "../../requestMethods";
 import "./SignIn.css";
+import { loader } from "../../loader";
 function SignIn() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -32,7 +33,7 @@ function SignIn() {
           email,
           password,
         });
-        localStorage.setItem("user", JSON.stringify(loginUser.data));
+        localStorage.setItem("user", JSON.stringify(loginUser.data.data));
         loginUser &&
           dispatch({
             type: LOG_IN,
@@ -103,7 +104,7 @@ function SignIn() {
               {/* Form Footer */}
               <div className="form__footer">
                 <button onClick={handleLogin}>
-                  {loading ? <p>Loading...</p> : "Log In"}
+                  {loading ? "Loading..." : "Log In"}
                 </button>
                 <p>
                   Don't have an account?{" "}

@@ -1,0 +1,19 @@
+.recent__cars{
+    width: 90%;
+    margin: auto;
+}
+.recent__cars h1{
+    margin: 15px 0;
+    font-weight: 500;
+    color: var(--primary-color);
+    border-bottom: 2px solid var(--primary-color);
+    width: fit-content;
+    padding-bottom: 5px;
+}
+
+.recent__cars .products__container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
