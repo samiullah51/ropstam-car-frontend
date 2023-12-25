@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "career-just-imagine",
+  "private_key_id": "3bae3903e3f39a3565d851fd1ee023795193d8ee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCq12naqcQAoMYn\n/kXRJuEHS+w6Ymet9jU2tI/Ajl/RykWWzzP16/GCwXSaCf4J+mzg+o1fdAlKM7iA\nVzolTZLvrgE4xPBhtqyobmI76krGSudv+h/ffF96w3+Rc/GBIFinalnA2FDNs7Ns\nj5ZdfhmZEm4XhOrTXbmw6YUkTdv2dTed4iK7JdprxddRxGokQCe29XaLrybNhrPo\npnFlisowMUuun0wgwD0q+E6My4RbUk7VLNWA/ITBgMC0OWbdLAZyp96Lj9tr4xUa\nVdXK9RWiLaB3pRm6ByOGZDvTJyearnMscf9Q7O1dvuOhIuSdmZDxBiURvoEznHM2\nMTNkWCUPAgMBAAECggEAUi80fftjDcZJ7R1WKspgQGlWp7OFGtuxN7Le4IvdLof2\nuBjPb0NkuDkmRZ/+9H/i9suxTLT+bxK4dA0CLMXHpMN5VPzwgqElKBWJ7jbEZ+XK\ntkSGJrWnHOCFMsyq5ipQW6E+shWdsYb8DoJ4nFs4JzoFegz4Blw1IxUDdrZ51XI+\n0awUk2CBqHjedcTr3yNvhXQh+3qvJi/OH2KCLHdrwsH3YLey6wpEXEjyJ+jaTsJp\nWi7h5FUxB1UU7iwBak9mCxFkDvwHoUGWaVFPPoenM0Wb4wtC8srfsU/iFZN9IuGa\nXmEqEHysA1gaNdGcdnvArqCRbBFN4Or/HUOor5GrkQKBgQDX+G132GzM28oY9fnb\noFA38NNQihHv/AWziLDab12CGGTeVBeMOcnxvXpD3AoBUyj1ONkLiDx6noQrMzsT\noMKLswZ9ipgBuKDeKcS6+0zvmxmRiqiOnbNL/pqbIXrZ1jylidR/iyueOhMOBq1N\nEwsw61JEXUuNw46bd3npMkD+twKBgQDKganaBts2sMafeRGmgnLkGSfDlBogorE9\ncan6yAJ8u88bDTgJzf3TpyJIKxeVE+WxbpfqVAbTuFqFvaifI7AlKvcoZ3dtXmDW\ngc/cHiVUOy+kB0cmdmeFWrFDsRFJZ2Y42ibg0VYe6hVEtdVZX6HH1W1UoRnqUS7J\nEepjuSG0aQKBgQCvk1BzUOhKtxgaqMYi7bapc8hnPogMoMeFyEd2nXjYjbpbIOQv\n5L8vHwop5tXfc9rlWPziqjP4v6vVbwXFFDl01usc3rJrG8z0L+K23BwU4vOrZZ1Y\nrA4aZvcLzPER7WBKd73gnqSsMqxRB86VzTiY4YZ0+5+ztVrXOw9KLMe4CwKBgARR\n28Ow3cA+6R3BwWSh572B491CLYSAs/Mxl4Sn+5WZlANptsZOxJldOVf8w1YExKOS\nTl9LR5IAnr23m/85DardTcRo4J1OpBYvUrXJVtaDJLMFDLl/URoBI0LkZhAAyqdv\nz+B/1qx2Jdn/Xvu3FIZkwR5LCXh8HtlfLnbOHi/xAoGATDhoUhPs52I4X0MabbTj\nr5xBkn4GlXA/hfmyPJc6Eb5iQqDbNR6ahzbU8CwJgfqgIQ7Rn9BtSybAsm/OQbz5\nLW5TPKyGbe7Fexd/C1Ny3sf8BDqpCdSW9liStWS2Dg7Oy1dm/n4dnKOAPBHztrtL\nFyExdjU6rNqb/ScaViZFRTs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "file-parser@career-just-imagine.iam.gserviceaccount.com",
+  "client_id": "114811268794766559237",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/file-parser%40career-just-imagine.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
